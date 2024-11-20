@@ -9,7 +9,7 @@
 **Introduction** <br>
 Federated learning involves training statistical models over remote devices or siloed data centers, such as mobile phones or hospitals, while keeping data localized.
 
-**Actual Situation** <br>
+**Current Context** <br>
 Mobile phones, wearable devices, and autonomous vehicles are just a few of the modern distributed networks generating lots of data each day.
 
 **Motivation** <br>
@@ -46,3 +46,4 @@ The federated learning problem involves training a single global model using dat
 👉 Next Chapter: _2.1 Communication Efficiency_ will be studied tomorrow! 
 
 ## 📮 Post
+https://www.linkedin.com/posts/giuliagualtieri_30daysofflcode-activity-7265094998910509056-fJnH?utm_source=share&utm_medium=member_desktop
