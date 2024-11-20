@@ -6,7 +6,7 @@
 
 <!-- ![immagine](https://info.openmined.org/hubfs/OpenMined-Logo.svg) -->
 
-👉 If you desire to follow my journey: here's the [link]()!
+👉 If you desire to follow my journey: here's the [link](./30days/README.md)!
 
 -------
 👩‍🔬 Author: Giulia Gualtieri <br>
