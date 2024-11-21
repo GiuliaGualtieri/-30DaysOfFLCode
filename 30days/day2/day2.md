@@ -1,5 +1,5 @@
 ## 📅 Date
-21.11.24
+**21.11.24**
 
 ## 📰 Resource
 [Federated Learning: Challenges, Methods, and Future Directions: 2.1 Communication Efficiency](https://arxiv.org/pdf/1908.07873)
