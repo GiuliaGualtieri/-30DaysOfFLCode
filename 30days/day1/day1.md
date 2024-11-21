@@ -47,3 +47,10 @@ The federated learning problem involves training a single global model using dat
 
 ## 📮 Post
 https://www.linkedin.com/posts/giuliagualtieri_30daysofflcode-activity-7265094998910509056-fJnH?utm_source=share&utm_medium=member_desktop
+
+------
+The _**Federated Learning Term of the Day**_ is **Edge Computing**.
+> [!NOTE]
+> **Edge Computing** refers to processing data near the source where it is generated, instead of sending it all to a central server or data center. In Federated
+> Learning, edge computing allows devices like smartphones and IoT gadgets to locally train parts of a machine learning model.
+
