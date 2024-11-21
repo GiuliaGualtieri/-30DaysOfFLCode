@@ -32,7 +32,7 @@ In data center environments, decentralized training has been demonstrated to be 
 as this type of physical hierarchy may not exist or be known a priori.
 
 ## 📮 Post
-
+https://www.linkedin.com/posts/giuliagualtieri_30daysofflcode-activity-7265261806686720004-JCRV?utm_source=share&utm_medium=member_desktop
 ------
 The _**Federated Learning Term of the Day**_ is **Federated Networks**.
 > [!NOTE]
