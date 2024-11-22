@@ -31,8 +31,10 @@ However, **decentralized topologies** (where devices only communicate with their
 In data center environments, decentralized training has been demonstrated to be faster than centralized training when operating on networks with low bandwidth or high latency. Similarly, in federated learning, decentralized algorithms can reduce the high communication cost on the central server. Also, hierarchical communication patterns have also been proposed to further ease the burden on the central server, by first leveraging edge servers to aggregate the updates from edge devices and then relying on a cloud server to aggregate updates from edge servers. While this is a promising approach to reduce communication, it is not applicable to all networks,
 as this type of physical hierarchy may not exist or be known a priori.
 
-## 📮 Post
-https://www.linkedin.com/posts/giuliagualtieri_30daysofflcode-activity-7265261806686720004-JCRV?utm_source=share&utm_medium=member_desktop
+## 📮 Post  
+
+[📘 LinkedIn Post](https://www.linkedin.com/posts/giuliagualtieri_30daysofflcode-activity-7265261806686720004-JCRV?utm_source=share&utm_medium=member_desktop)
+
 ------
 The _**Federated Learning Term of the Day**_ is **Federated Networks**.
 > [!NOTE]
