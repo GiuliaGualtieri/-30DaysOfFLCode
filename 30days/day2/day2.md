@@ -1,10 +1,10 @@
 ## 📅 Date
-**21.11.24**
+**21 November 24**
 
 ## 📰 Resource
 [Federated Learning: Challenges, Methods, and Future Directions: 2.1 Communication Efficiency](https://arxiv.org/pdf/1908.07873)
 
-## 🔖 My Learn
+## 🔖 My Learning
 As understood in [yesterday learning](../day1/day1.md), communication is a key bottleneck to consider when developing methods for federated networks.
 Therefore the first challenge for FL is **communication efficiency.**
 
