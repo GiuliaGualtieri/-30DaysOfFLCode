@@ -41,7 +41,7 @@ An example is **Gradient Redundancy**. And here I paste the link to a very inter
 
 ## 📮 Post
 
-[📘 LinkedIn Post]()
+[📘 LinkedIn Post](https://www.linkedin.com/posts/giuliagualtieri_30daysofflcode-activity-7265615939386179584-L0F4?utm_source=share&utm_medium=member_desktop)
 
 ------
 The _**Federated Learning Term of the Day**_ is **Coded computation**.
