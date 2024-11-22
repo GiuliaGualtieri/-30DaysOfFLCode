@@ -1,10 +1,10 @@
 ## 📅 Date
-**20.11.2024**
+**20 November 2024**
 
 ## 📰 Resource
 [Federated Learning: Challenges, Methods, and Future Directions: 1. Introduction ](https://arxiv.org/pdf/1908.07873)
 
-## 🔖 My Learn
+## 🔖 My Learning
 
 **Introduction** <br>
 Federated learning involves training statistical models over remote devices or siloed data centers, such as mobile phones or hospitals, while keeping data localized.
@@ -46,7 +46,8 @@ The federated learning problem involves training a single global model using dat
 👉 Next Chapter: _2.1 Communication Efficiency_ will be studied tomorrow! 
 
 ## 📮 Post
-https://www.linkedin.com/posts/giuliagualtieri_30daysofflcode-activity-7265094998910509056-fJnH?utm_source=share&utm_medium=member_desktop
+
+[📘 LinkedIn Post](https://www.linkedin.com/posts/giuliagualtieri_30daysofflcode-activity-7265094998910509056-fJnH?utm_source=share&utm_medium=member_desktop)
 
 ------
 The _**Federated Learning Term of the Day**_ is **Edge Computing**.
