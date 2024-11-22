@@ -4,11 +4,12 @@
 ## 📰 Resource
 
 
-## 🔖 My Learn
+## 🔖 My Learning
 
 
-## 📮 Post
+## 📮 Post 
 
+[📘 LinkedIn Post]()
 
 ------
 The _**Federated Learning Term of the Day**_ is 
