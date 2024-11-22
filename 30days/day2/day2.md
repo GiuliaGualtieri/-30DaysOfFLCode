@@ -5,7 +5,7 @@
 [Federated Learning: Challenges, Methods, and Future Directions: 2.1 Communication Efficiency](https://arxiv.org/pdf/1908.07873)
 
 ## 🔖 My Learn
-As understood yesterday, communication is a key bottleneck to consider when developing methods for federated networks.
+As understood in [yesterday learning](../day1/day1.md), communication is a key bottleneck to consider when developing methods for federated networks.
 Therefore the first challenge for FL is **communication efficiency.**
 
 Several distributed learning methods hve been studied to make communication efficient and they can be grouped into
