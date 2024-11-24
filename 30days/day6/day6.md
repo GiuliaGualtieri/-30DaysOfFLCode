@@ -15,7 +15,7 @@ Here you can find my notes and my drawings of the algorithm, which highlight the
 
 Federated Network| 
 :-------------------------:|
-![Figure 1: Federated Networks](30days/images/FederatedNetworks.jpeg)
+![Figure 1: Federated Networks](../images/FederatedNetworks.jpeg)
 
 **Setting**: 
 - The learning task is solved by a federation of participating _local devices_ (called also clients) which are coordinated by a _central server_ (see [Figure 1: Federated Networks](https://github.com/GiuliaGualtieri/30DaysOfFLCode/raw/main/30days/images/FederatedNetworks.jpeg)).
@@ -31,7 +31,7 @@ Federated Network|
 
 FedSGD algorithm             |  FedAvg algorithm
 :-------------------------:|:-------------------------:
-![Figure 2: `Federated SGD algorithm`](30days/images/FedSGD.jpeg)  |  ![Figure 3: `Federated Averaging algorithm`](30days/images/FedAVG.jpeg)
+![Figure 2: `Federated SGD algorithm`](../images/FedSGD.jpeg)  |  ![Figure 3: `Federated Averaging algorithm`](../images/FedAVG.jpeg)
  
 
 If:
