@@ -20,8 +20,8 @@ Here's my final summary of the paper with focus on the strengths, limitations, a
 
 ### **Strengths**:
 
-- **Handles non-IID Data**: The training data on a given client is typically based on the usage of the mobile device by a particular user, and hence any particular user’s local dataset will not be representative of the population distribution. The algorithm seems to be robust to differences in client data distributions.
-- **Deal with unbalanced Similarly**, as some users will make much heavier use of the service or app than others, leading to varying amounts of local training data. The algorithm seems to deal with this issue.
+- **Handles non-IID Data**: The training data on a given client is typically based on the usage of the mobile device by a particular user, and hence any particular user’s local dataset will not be representative of the population distribution. Experiments have shown that the algorithm seems to be robust to differences in client data distributions.
+- **Deal with unbalanced similarly**, as some users will make much heavier use of the service or app than others, leading to varying amounts of local training data. Experiments have shown that the algorithm appears to handle this issue.
 - **Reduces Communication**: `FedAvg` can achieve high accuracy with fewer communication rounds, due to the iterative of local SGD before doing the model averaging of the local weights.
 - **Scalability**: It’s applicable to various model architectures: a multi-layer perceptron, different convolutional NNs and LSTM. Plus, the algorithm is applicable to any finite-sum objective.
 
