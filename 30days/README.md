@@ -6,4 +6,6 @@ Here is my learning journey:
 - Day 3️⃣ [Federated Learning: Challenges, Methods, and Future Directions: 2.2 Systems Heterogeneity](day3/day3.md)
 - Day 4️⃣ [Federated Learning: Challenges, Methods, and Future Directions: 2.3 Statistical Heterogeneity](day4/day4.md)
 - Day 5️⃣ [Federated Learning: Challenges, Methods, and Future Directions: 2.4 Privacy](day5/day5.md)
+- Day 6️⃣ [Federated Averaging algorithm: introduction and pseudo-code](day6/day6.md)
+- Day 7️⃣ [Federated Averaging algorithm: strengths, limitations, key experiment findings, and future directions](day7/day7.md)
 
