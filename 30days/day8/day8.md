@@ -15,7 +15,7 @@ SyftBox is an innovative project by [OpenMined](https://openmined.org/) that aim
 
 It's available on [pypi.org](https://pypi.org/project/syftbox/):  `pip install syftbox` .
 
-Last Release : on 26 Nov. 2024 → you will see it's at least weekly updated.
+Last Release **0.2.1** : on 26 Nov. 2024 → you will see it's at least weekly updated.
 
 ![Last Release of SyftBox](../images/SyftBox_Last_Release.png)
 
