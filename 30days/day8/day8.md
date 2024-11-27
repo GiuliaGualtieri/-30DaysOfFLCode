@@ -15,7 +15,7 @@ SyftBox is an innovative project by [OpenMined](https://openmined.org/) that aim
 
 It's available on [pypi.org](https://pypi.org/project/syftbox/):  `pip install syftbox` .
 
-Last Release **0.2.1** : on 26 Nov. 2024 → you will see it's at least weekly updated.
+Last Release **0.2.10** : on 26 Nov. 2024 → you will see it's at least weekly updated.
 
 ![Last Release of SyftBox](../images/SyftBox_Last_Release.png)
 
@@ -75,7 +75,9 @@ In my opinion, PETs community is quite theoretically driven and and tends to dep
 
 Addressing privacy concerns and deploying PETs solutions requires courage. It's not just about technical skill but also about having the confidence to experiment with novel approaches. However, many prefer to rely on existing, widely-used solutions rather than "getting their hands dirty" with creating something new. This is why practical applications of PETs are still quite limited in the market.
 
-As Andrew once said to me during one of the first hackathons we attended together, "We need to enable the deployment of PETs applications." Privacy scientists require more practical implementations of PETs to bridge the gap between theory and application. Privacy libraries must be collaborative and that's why here we are! SyftBox could be a first prototype for it, empowering scientists to develop their own privacy-enhancing technologies in a private matter.
+As [Andrew](https://www.linkedin.com/in/andrew-trask-3763ba15b/?original_referer=https%3A%2F%2Fwww.google.com%2F&originalSubdomain=uk) once said to me during one of the first hackathons we attended together, 
+> "We need to enable the deployment of PETs applications."
+Privacy scientists require more practical implementations of PETs to bridge the gap between theory and application. Privacy libraries must be collaborative and that's why here we are! SyftBox could be a first prototype for it, empowering scientists to develop their own privacy-enhancing technologies in a private matter.
 
 ### ⏭️ What's next?
 
