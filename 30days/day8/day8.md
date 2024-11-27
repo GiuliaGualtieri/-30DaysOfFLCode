@@ -77,7 +77,14 @@ Addressing privacy concerns and deploying PETs solutions requires courage. It's 
 
 As [Andrew](https://www.linkedin.com/in/andrew-trask-3763ba15b/?original_referer=https%3A%2F%2Fwww.google.com%2F&originalSubdomain=uk) once said to me during one of the first hackathons we attended together, 
 > "We need to enable the deployment of PETs applications."
+
 Privacy scientists require more practical implementations of PETs to bridge the gap between theory and application. Privacy libraries must be collaborative and that's why here we are! SyftBox could be a first prototype for it, empowering scientists to develop their own privacy-enhancing technologies in a private matter.
+
+Below, some screenshots of my pasts Hackathons.
+15th October 2024          |  24th October 2024 | 27th November 2024
+:-------------------------:|:-------------------------:|:-------------------------:
+![1st Hackathon](../images/Hackathon_20241015.png)  |  ![2nd Hackathon](../images/Hackathon_20241024.png)|  ![3rd Hackathon](../images/Hackathon_20241127.png)
+
 
 ### ⏭️ What's next?
 
