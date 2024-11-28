@@ -50,7 +50,7 @@ all without overly compromising accuracy.
 
 ## 📮 Post 
 
-[📘 LinkedIn Post]()
+[📘 LinkedIn Post](https://www.linkedin.com/posts/giuliagualtieri_ai-innovation-dataprivacy-activity-7266372881545129984-DDh9?utm_source=share&utm_medium=member_desktop)
 
 ------
 The _**Federated Learning Term of the Day**_ is (of course) **Differential Privacy**.
