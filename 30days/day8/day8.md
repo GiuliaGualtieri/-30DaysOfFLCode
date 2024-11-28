@@ -94,7 +94,7 @@ Below, some screenshots of my pasts Hackathons.
 
 ## 📮 Post 
 
-[📘 LinkedIn Post]()
+[📘 LinkedIn Post](https://www.linkedin.com/posts/giuliagualtieri_30daysofflcode-30daysofflcode-syftbox-activity-7267616927169024000-rw05?utm_source=share&utm_medium=member_desktop)
 
 ------
 The _**Federated Learning Term of the Day**_ is **PETs**
