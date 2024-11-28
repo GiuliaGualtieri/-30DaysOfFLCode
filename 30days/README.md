@@ -14,3 +14,4 @@ Here is my learning journey:
 
 ## SyftBox Library
 - Day 8️⃣ [SyftBox Library: What is it, How to use it, Key Features, General Considerations](day8/day8.md)
+- Day 9️⃣ [SyftBox Library: Structure and How to Install APIs](day9/day9.md)
