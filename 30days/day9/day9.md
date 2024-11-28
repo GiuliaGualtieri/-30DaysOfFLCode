@@ -10,7 +10,7 @@ Today, I dove into more practical federated learning solutions, attending anothe
 
 The goal of today's hackaton was to explore the capabilities of the [SyftBox](https://syftbox-documentation.openmined.org/) library, as a first proptotype of a federated learning platform.
 
-If you missed the introduction of the library, what is it, how to use it and how to install it, you can find it [here](../TO_PUBLISH/syftbox_p1.md).
+If you missed the introduction of the library, what is it, how to use it and how to install it, you can find it [here](../day8/day8.md).
 
 ### SyftBox's Structure
 
