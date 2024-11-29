@@ -22,9 +22,9 @@ Here is my learning journey:
 - Day 7️⃣ [Strengths, limitations, key experiment findings, and future directions](30days/day7/day7.md)
 
 ## SyftBox Library
-- Day 8️⃣ [SyftBox Library: What is it, How to use it, Key Features, General Considerations](30days/day8/day8.md)
-- Day 9️⃣ [SyftBox Library: Structure and How to Install APIs](30days/day9/day9.md)
-- Day 🔟 [SyftBox Library: Example of usage with 'RingApp'](30days/day10/day10.md)
+- Day 8️⃣ [What is it, How to use it, Key Features, General Considerations](30days/day8/day8.md)
+- Day 9️⃣ [Structure and How to Install APIs](30days/day9/day9.md)
+- Day 🔟 [Example of usage with 'RingApp'](30days/day10/day10.md)
 
 <!-- ![immagine](https://info.openmined.org/hubfs/OpenMined-Logo.svg) -->
 
