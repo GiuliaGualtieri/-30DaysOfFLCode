@@ -24,7 +24,7 @@ Here is my learning journey:
 ## SyftBox Library
 - Day 8️⃣ [SyftBox Library: What is it, How to use it, Key Features, General Considerations](30days/day8/day8.md)
 - Day 9️⃣ [SyftBox Library: Structure and How to Install APIs](30days/day9/day9.md)
-- Day [SyftBox Library: Example of usage with 'RingApp'](30days/day10/day10.md)
+- Day 🔟 [SyftBox Library: Example of usage with 'RingApp'](30days/day10/day10.md)
 
 <!-- ![immagine](https://info.openmined.org/hubfs/OpenMined-Logo.svg) -->
 
