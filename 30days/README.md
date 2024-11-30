@@ -11,6 +11,8 @@ Here is my learning journey:
 ## Federated Averaging algorithm
 - Day 6️⃣ [Introduction and pseudo-code](day6/day6.md)
 - Day 7️⃣ [Strengths, limitations, key experiment findings, and future directions](day7/day7.md)
+- Day 1️⃣1️⃣ [Hands-on: Replicate Experiment pt.1](day11/day11.md)
+
 
 ## SyftBox Library
 - Day 8️⃣ [SyftBox Library: What is it, How to use it, Key Features, General Considerations](day8/day8.md)
