@@ -44,13 +44,15 @@ Then, it's sufficient that only one client triggers the `ringapp` , how?
 ### Results 
 Once the ring app end into the last client (datasite) of the ring, in the `<path_to>/SyftBox/datasites/<last_person_in_the_ring@email.com>/app_pipelines/ringapp/done` you should see the result of the computation. It corresponds to the total sum of the secret numbers of all the users in the ring.
 
-Check it out and let us know if it worked!
+Check it out and let me know if it worked!
 
 ## 📮 Post 
 
-[📘 LinkedIn Post]()
+[📘 LinkedIn Post](https://www.linkedin.com/posts/giuliagualtieri_30daysofflcode-activity-7268330383048364033-PkLz?utm_source=share&utm_medium=member_desktop)
 
 ------
-The _**Federated Learning Term of the Day**_ is ****
+The _**Federated Learning Term of the Day**_ is **Synchronous Run**.
 > [!NOTE]
-> 
+> A Synchronous Run in Federated Learning ensures that all participating clients operate in lockstep, completing their computations and sending updates to the central server (or to other clients, in a decentralized setting) before the next round begins. In the example of the Ring App, a synchronous run ensures that every client in the ring completes their task in sequence before passing the computation to the next client. This approach is surely slower than asynchronous runs.
+
+
