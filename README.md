@@ -21,6 +21,7 @@ Here is my learning journey:
 - Day 6️⃣ [Introduction and pseudo-code](30days/day6/day6.md)
 - Day 7️⃣ [Strengths, limitations, key experiment findings, and future directions](30days/day7/day7.md)
 - Day 1️⃣1️⃣ [Hands-on: Replicate Experiment pt.1](30days/day11/day11.md)
+- Day 1️⃣2️⃣ [Hands-on: Replicate Experiment pt.2](30days/day12/day12.md)
 
 ## SyftBox Library
 - Day 8️⃣ [What is it, How to use it, Key Features, General Considerations](30days/day8/day8.md)

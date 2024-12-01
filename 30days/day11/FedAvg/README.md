@@ -36,6 +36,7 @@ pip install -r requirements.txt
 | `--batch_size` | Int     | 10 | batch size |
 | `--lr` | Float     | 0.01 | leanring-rate |
 | `--wandb` | Bool     | False | log the results to WandB |
+| --early_stopping | Bool | True | stop training when the validation accuracy reach the target one |
 
 
 ### Training Example
