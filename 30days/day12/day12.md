@@ -13,7 +13,8 @@ The goal of today was to make the library ready to train and test a model on the
 
 If you are courious please, try it out! The code is available [here](../day11/FedAvg/).
 
-Running the following command will train a CNN model on the MNIST dataset in a Federated Learning setting with the following hyperparameters:
+Running the following command will train a CNN model on the MNIST dataset in a Federated Learning setting with the following hyperparameters:  
+
 `--batch_size=10 --frac=0.1 --lr=0.01 --n_client_epochs=20 --n_clients=100 --n_epochs=100 --non_iid=1 --wandb=True `
 
 After 100 rounds of training, where each client performs 20 local epochs, the model reaches an accuracy of 98.5% on the test set. 
@@ -30,9 +31,9 @@ As we can see in the image, at already 15 rounds we overcome the accuracy value 
 
 ## 📮 Post 
 
-[📘 LinkedIn Post]()
+[📘 LinkedIn Post](https://www.linkedin.com/posts/giuliagualtieri_30daysofflcode-fedavg-cnn-activity-7268906509764349953-VB1M?utm_source=share&utm_medium=member_desktop)
 
 ------
-The _**Federated Learning Term of the Day**_ is 
+The _**Federated Learning Term of the Day**_ is **CNN**.
 > [!NOTE]
-> 
+>  CNN **(Convolutional Neural Network**) is a class of deep neural networks, most commonly applied to analyzing visual imagery. They are also known as ConvNets. CNNs are regularized versions of multilayer perceptrons. They consist of multiple layers of neurons, which have learnable weights and biases. Each neuron receives several inputs, takes a weighted sum over them, pass it through an activation function and responds with an output.
