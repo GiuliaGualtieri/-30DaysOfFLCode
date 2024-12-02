@@ -28,6 +28,9 @@ Here is my learning journey:
 - Day 9️⃣ [Structure and How to Install APIs](30days/day9/day9.md)
 - Day 🔟 [Example of usage with 'RingApp'](30days/day10/day10.md)
 
+## Federated Learning and Privacy
+- Day 1️⃣3️⃣ [Privacy Principles for Learning and Analytics](30days/day13/day13.md)
+- 
 <!-- ![immagine](https://info.openmined.org/hubfs/OpenMined-Logo.svg) -->
 
 <!-- 👉 If you desire to follow my journey: here's the [link](./30days/README.md)! -->

@@ -19,3 +19,7 @@ Here is my learning journey:
 - Day 8️⃣ [SyftBox Library: What is it, How to use it, Key Features, General Considerations](day8/day8.md)
 - Day 9️⃣ [SyftBox Library: Structure and How to Install APIs](day9/day9.md)
 - Day 🔟 [SyftBox Library: Example of usage with 'RingApp'](day10/day10.md)
+
+
+## Federated Learning and Privacy
+- Day 1️⃣3️⃣ [Privacy Principles for Learning and Analytics](day13/day13.md)
