@@ -61,7 +61,7 @@ FL-trained models don’t affect user experience unless explicitly deployed. To 
 
 Building scalable infrastructure and developer-friendly APIs to support these workflows is a significant challenge, as outlined by [Bonawitz et al. (2019)](https://arxiv.org/pdf/1902.01046).
 
-[Components and phases of a cross-device FL system.](../images/Components%20and%20phases%20of%20a%20cross-device%20FL%20system.png)
+![Components and phases of a cross-device FL system.](../images/Components%20and%20phases%20of%20a%20cross-device%20FL%20system.png)
 
 So Today was a day with really a lot of new concepts and interesting open point of investigations for the next steps of my learning journey. Howevere, it's not enede here the study on the resource pinned today.
 
