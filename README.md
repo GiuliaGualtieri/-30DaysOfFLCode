@@ -31,7 +31,7 @@ Here is my learning journey:
 ## Federated Learning and Privacy
 - Day 1️⃣3️⃣ [Privacy Principles for Learning and Analytics](30days/day13/day13.md)
 - Day 1️⃣4️⃣ [Federated Learning Settings and Applications: Cross-Device Federated Learning](30days/day14/day14.md)
-- 
+
 <!-- ![immagine](https://info.openmined.org/hubfs/OpenMined-Logo.svg) -->
 
 <!-- 👉 If you desire to follow my journey: here's the [link](./30days/README.md)! -->
