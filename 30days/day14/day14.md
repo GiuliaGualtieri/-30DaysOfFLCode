@@ -71,7 +71,7 @@ So Today was a day with really a lot of new concepts and interesting open point 
 
 ## 📮 Post 
 
-[📘 LinkedIn Post]()
+[📘 LinkedIn Post](https://www.linkedin.com/posts/giuliagualtieri_30daysofflcode-activity-7269633809661243392-VxwH?utm_source=share&utm_medium=member_desktop)
 
 ------
 The _**Federated Learning Term of the Day**_ is **Cross-Device Federated Learning**.
