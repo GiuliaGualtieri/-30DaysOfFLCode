@@ -1,4 +1,4 @@
-## 📅 Date
+ ## 📅 Date
 **4 December 2024**
 
 ## 📰 Resource
@@ -69,7 +69,7 @@ Both chapters highlight the importance of combining advanced privacy-preserving 
 
 ## 📮 Post 
 
-[📘 LinkedIn Post]()
+[📘 LinkedIn Post](https://www.linkedin.com/posts/giuliagualtieri_30daysofflcode-activity-7270154692289056769-6Nhi?utm_source=share&utm_medium=member_desktop)
 
 ------
 The _**Federated Learning Term of the Day**_ is **Data Minimization**.
