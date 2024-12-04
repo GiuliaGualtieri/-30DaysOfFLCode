@@ -18,7 +18,7 @@ Looking at the image below, some questions may raises, like:
 - *To the final deployed model?*
 
 So I discovered that the number of potentially malicious parties varies dramatically as information flows through this system.
-> [IMPORTANT!]
+> [!IMPORTANT]
 > A very small number of parties should have physical or root access to the coordinating server, for example, but nearly anyone might be able to access the fi-nal model shipped out to a large fleet of smartphones.
 
 Privacy claims must therefore be assessed for a complete end-to-end system. Required guarantees:
@@ -28,7 +28,7 @@ Privacy claims must therefore be assessed for a complete end-to-end system. Requ
 
 
 ### Data Minimization for Aggregation
-> [IMPORTANT!]
+> [!IMPORTANT]
 > FL systems can be viewed as a kind of privacy-preserving technology in themselves, structurally preventing the server from accessing anything about a client’s data that was not included in the update submitted by that client.
 
 In the aggregation phase of FL there is a challenge that I wasn't aware of. An idealized system would like to have a completely trusted third party who aggregates the clients’ updates and reveals only the final aggregate model to the central server. In reality, no such mutually trusted third party typically exists to play this role, but various technologies allow an FL system to simulate such a third party under a wide range of conditions. Privacy enhancing Technolgies are under research to make the central server in a FL system acting like also the third party trusted by everyone. Howveer this is not straightforward.
@@ -64,7 +64,7 @@ The key point is that in general one user may contribute many training examples.
 
 Both chapters highlight the importance of combining advanced privacy-preserving technologies with practical considerations to protect data and ensure compliance in federated systems. These approaches mitigate risks of privacy breaches while supporting robust federated analytics and machine learning.
 
-What's Next?
+### ✨ What's Next?
 - **Federated Analytics**.
 
 ## 📮 Post 
