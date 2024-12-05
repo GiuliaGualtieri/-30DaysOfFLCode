@@ -41,7 +41,7 @@ The world of FL engineers seems to be optimistic that FL will continue to expand
 
 ## 📮 Post 
 
-[📘 LinkedIn Post]()
+[📘 LinkedIn Post](https://www.linkedin.com/posts/giuliagualtieri_30daysofflcode-activity-7270502943064301569-zJ8I?utm_source=share&utm_medium=member_desktop)
 
 ------
 The _**Federated Learning Term of the Day**_ is **Federated Analytics**.
