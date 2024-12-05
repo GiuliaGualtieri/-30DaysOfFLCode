@@ -25,3 +25,4 @@ Here is my learning journey:
 - Day 1️⃣3️⃣ [Privacy Principles for Learning and Analytics](day13/day13.md)
 - Day 1️⃣4️⃣ [Federated Learning Settings and Applications: Cross-Device Federated Learning](day14/day14.md)
 - Day 1️⃣5️⃣ [Privacy for Federated Computations and Data Minimization for Aggregation](day15/day15.md)
+- Day 1️⃣6️⃣ [Federated Analytics](30days/day16/day16.md)
