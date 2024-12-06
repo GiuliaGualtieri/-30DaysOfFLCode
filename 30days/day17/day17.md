@@ -48,7 +48,7 @@ Beyond statistical heterogeneity, systems heterogeneity is also a critical conce
 
 ## 📮 Post 
 
-[📘 LinkedIn Post]()
+[📘 LinkedIn Post](https://www.linkedin.com/posts/giuliagualtieri_30daysofflcode-activity-7270848801735671808-L-h_?utm_source=share&utm_medium=member_desktop)
 
 ------
 The _**Federated Learning Term of the Day**_ is **Theoretical Convergence**.
