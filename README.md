@@ -34,6 +34,10 @@ Here is my learning journey:
 - Day 1️⃣5️⃣ [Privacy for Federated Computations and Data Minimization for Aggregation](30days/day15/day15.md)
 - Day 1️⃣6️⃣ [Federated Analytics](30days/day16/day16.md)
 
+## Federated Optimization in Heterogeneous Networks
+- Day 1️⃣7️⃣ [Introduction and Background](30days/day17/day17.md)
+
+
 <!-- ![immagine](https://info.openmined.org/hubfs/OpenMined-Logo.svg) -->
 
 <!-- 👉 If you desire to follow my journey: here's the [link](./30days/README.md)! -->
