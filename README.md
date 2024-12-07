@@ -36,6 +36,7 @@ Here is my learning journey:
 
 ## Federated Optimization in Heterogeneous Networks
 - Day 1️⃣7️⃣ [Introduction and Background](30days/day17/day17.md)
+- Day 1️⃣8️⃣ [Federated Optimization Methods](30days/day18/day18.md)
 
 
 <!-- ![immagine](https://info.openmined.org/hubfs/OpenMined-Logo.svg) -->
