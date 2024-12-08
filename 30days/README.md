@@ -30,3 +30,4 @@ Here is my learning journey:
 ## Federated Optimization in Heterogeneous Networks
 - Day 1️⃣7️⃣ [Introduction and Background](day17/day17.md)
 - Day 1️⃣8️⃣ [Federated Optimization Methods](day18/day18.md)
+- Day 1️⃣9️⃣ [Convergence Analysis](day19/day19.md)
