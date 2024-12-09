@@ -72,6 +72,6 @@ So here we are!
 ------
 The _**Federated Learning Term of the Day**_ is **Stochastic Algorithms**.
 > [!NOTE]
-> Stochastich algorithm is an algorithm that uses randomness as part of its logic. In the context of Federated Optimization Methods
+> **Stochastich algorithm** is an algorithm that uses randomness as part of its logic. In the context of Federated Optimization Methods
 > the randomness is used to sample a subset of the devices to perform the update in each round.
 
