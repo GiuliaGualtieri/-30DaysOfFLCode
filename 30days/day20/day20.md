@@ -66,6 +66,6 @@ Available Implementation of the algorithm : https://flower.ai/docs/baselines/fed
 
 [📘 LinkedIn Post]()
 
-The _**Federated Learning Term of the Day**_ is **stochastic algorithms**.
+The _**Federated Learning Term of the Day**_ is **Dissimilarity Measure**.
 > [!NOTE]
 > Generalizing the **Dissimilarity Measure** to the context of any two objects (functions depending on parameters), it represents a measure able to quantify the distance between the two objects using the theories of measure, integration, and probability of dimensional spaces.
