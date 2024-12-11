@@ -37,7 +37,7 @@ Same Characteristics as FedAvg:
 
 Modifications:
 
-![FedProx](../images/FedProx.png)
+![FedProx](../images/FedProx.jpg)
 
 1️⃣ **Tolerating partial work**
 As previously discussed, different devices in federated networks often have different resource constraints in terms of the computing hardware, network connections, and battery levels. Therefore, it is unrealistic to force each device to perform a uniform and fixed amount of work (i.e., running the same number of local epochs, `E`), as in `FedAvg`.
