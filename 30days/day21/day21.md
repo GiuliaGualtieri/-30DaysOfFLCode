@@ -54,7 +54,7 @@ With the above quotes, I hope to have shown how the talk was highly convincing, 
 
 ## 📮 Post 
 
-[📘 LinkedIn Post]()
+[📘 LinkedIn Post](https://www.linkedin.com/posts/giuliagualtieri_30daysofflcode-activity-7272506614471946241-aRPS?utm_source=share&utm_medium=member_desktop)
 
 ------
 The _**Federated Learning Term of the Day**_ is **Remote Executio**n.
