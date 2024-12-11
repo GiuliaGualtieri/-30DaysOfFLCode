@@ -38,7 +38,10 @@ Here is my learning journey:
 - Day 1️⃣7️⃣ [Introduction and Background](30days/day17/day17.md)
 - Day 1️⃣8️⃣ [Federated Optimization Methods](30days/day18/day18.md)
 - Day 1️⃣9️⃣ [Convergence Analysis](30days/day19/day19.md)
+- Day 2️⃣0️⃣ [Experiment Results](30days/day20/day20.md)
 
+## Privacy Preserving AI Talks 
+- Day 2️⃣1️⃣ [Privacy Preserving AI (Andrew Trask) | MIT Deep Learning Series](30days/day21/day21.md)
 
 <!-- ![immagine](https://info.openmined.org/hubfs/OpenMined-Logo.svg) -->
 
