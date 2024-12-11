@@ -35,7 +35,7 @@ The browsers that've been incorporated in our model so far are:
 > My fellows shared this interesting paper: [Federated Learning for Ranking Browser History Suggestions](https://arxiv.org/pdf/1911.11807) that could be a good study for our project.
 
 ### Considerations
-Today I went on giving my contributions in the project (both `feat` like implementin the similarity computation, and `doc` like updating the README.md).
+Today I went on giving my contributions in the project (both `feat` like implementing the similarity computation, and `doc` like updating the README.md).
 I'm happy to see the progress we are making and the results we are achieving.
 As soon as possible (I hope on Friday) we will show to the SyftBox community the results of our work!
 Looking forward to it! 🚀
