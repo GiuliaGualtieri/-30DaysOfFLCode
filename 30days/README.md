@@ -16,9 +16,10 @@ Here is my learning journey:
 
 
 ## SyftBox Library
-- Day 8️⃣ [SyftBox Library: What is it, How to use it, Key Features, General Considerations](day8/day8.md)
-- Day 9️⃣ [SyftBox Library: Structure and How to Install APIs](day9/day9.md)
-- Day 🔟 [SyftBox Library: Example of usage with 'RingApp'](day10/day10.md)
+- Day 8️⃣ [What is it, How to use it, Key Features, General Considerations](day8/day8.md)
+- Day 9️⃣ [Structure and How to Install APIs](day9/day9.md)
+- Day 🔟 [Example of usage with 'RingApp'](day10/day10.md)
+- Day 2️⃣2️⃣ [Federated Browser History Analyser System](day22/day22.md)
 
 
 ## Federated Learning and Privacy
