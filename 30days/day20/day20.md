@@ -64,7 +64,7 @@ Available Implementation of the algorithm : https://flower.ai/docs/baselines/fed
 
 ## 📮 Post 
 
-[📘 LinkedIn Post]()
+[📘 LinkedIn Post](https://www.linkedin.com/posts/giuliagualtieri_30daysofflcode-activity-7271939897924464641-LgUY?utm_source=share&utm_medium=member_desktop)
 
 The _**Federated Learning Term of the Day**_ is **Dissimilarity Measure**.
 > [!NOTE]
