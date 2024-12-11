@@ -27,6 +27,7 @@ Here is my learning journey:
 - Day 8️⃣ [What is it, How to use it, Key Features, General Considerations](30days/day8/day8.md)
 - Day 9️⃣ [Structure and How to Install APIs](30days/day9/day9.md)
 - Day 🔟 [Example of usage with 'RingApp'](30days/day10/day10.md)
+- Day 2️⃣2️⃣ [Federated Browser History Recommender System](30days/day22/day22.md)
 
 ## Federated Learning and Privacy
 - Day 1️⃣3️⃣ [Privacy Principles for Learning and Analytics](30days/day13/day13.md)
