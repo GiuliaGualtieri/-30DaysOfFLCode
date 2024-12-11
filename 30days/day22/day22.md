@@ -8,7 +8,7 @@
 ## 🔖 My Learning
 Expanding beyond the [#RingApp](../day10/day10.md) example of the [SyftBox](https://syftbox-documentation.openmined.org/) library, today I would like to talk of a poject I'm working with other colleagues attending the 30DaysOfFLCode.com.
 
-Our project is called **Federated Browser History Recommender System**.
+Our project is called **Federated Browser History Analyzer System**.
 
 With my fellows [Irina](https://github.com/IrinaMBejan), [Gustavo](https://github.com/gubertoli) and [Vivek](https://github.com/VivekSil), as part of the challenge #30DaysOfFLCode like me, we started to implement a Federated Reccomender Systems based on the browser history features. 
 
@@ -42,7 +42,7 @@ Looking forward to it! 🚀
 
 ## 📮 Post 
 
-[📘 LinkedIn Post]()
+[📘 LinkedIn Post](https://www.linkedin.com/posts/giuliagualtieri_30daysofflcode-activity-7272676912852840450-MXsL?utm_source=share&utm_medium=member_desktop)
 
 ------
 The _**Federated Learning Term of the Day**_ is *Data Anonymization with Hashing*.
