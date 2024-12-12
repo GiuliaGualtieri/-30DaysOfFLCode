@@ -68,6 +68,6 @@ That's it! We are now part of you're now part of the computation! Out=r CPU load
 [📘 LinkedIn Post]()
 
 ------
-The _**Federated Learning Term of the Day**_ is 
+The _**Federated Learning Term of the Day**_ is **Workflow**.
 > [!NOTE]
-> 
+> Workflow is a series of tasks that produce a specific service or product. In the context of federated learning, it refers to the sequence of steps that need to be taken on private data.
