@@ -20,6 +20,7 @@ Here is my learning journey:
 - Day 9️⃣ [Structure and How to Install APIs](day9/day9.md)
 - Day 🔟 [Example of usage with 'RingApp'](day10/day10.md)
 - Day 2️⃣2️⃣ [Federated Browser History Analyser System](day22/day22.md)
+- Day 2️⃣3️⃣ [Start being part of Computational Model](day23/day23.md)
 
 
 ## Federated Learning and Privacy
