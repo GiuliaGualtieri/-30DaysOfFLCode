@@ -31,7 +31,7 @@ A developer will install another API on their own datasite, which will aggregate
 🔹 **Step by step**
 
 The whole workflow looks something like this:
-![SyftBox Computation Model](./images/SyftBox_WorkFlow.png)
+![SyftBox Computation Model](../images/SyftBox_WorkFlow.png)
 
 1. **data owners (A and B)** each prepare their private data (CSV, JSON, or any other format supported by the APIs)
 2.  **data owners (A and B)** each install the data_owner_api API on their Datasites (developed by the API developer)
