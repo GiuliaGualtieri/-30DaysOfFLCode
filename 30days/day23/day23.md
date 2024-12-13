@@ -65,7 +65,7 @@ That's it! We are now part of you're now part of the computation! Out=r CPU load
 
 ## 📮 Post 
 
-[📘 LinkedIn Post]()
+[📘 LinkedIn Post](https://www.linkedin.com/posts/giuliagualtieri_30daysofflcode-activity-7272676912852840450-MXsL?utm_source=share&utm_medium=member_desktop)
 
 ------
 The _**Federated Learning Term of the Day**_ is **Workflow**.
