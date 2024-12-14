@@ -46,6 +46,9 @@ Here is my learning journey:
 ## Privacy Preserving AI Talks 
 - Day 2️⃣1️⃣ [Privacy Preserving AI (Andrew Trask) | MIT Deep Learning Series](30days/day21/day21.md)
 
+## Understanding the Types of Federated Learning 
+- Day 2️⃣5️⃣ [Understanding the Types of Federated Learning](30days/day25/day25.md)
+
 <!-- ![immagine](https://info.openmined.org/hubfs/OpenMined-Logo.svg) -->
 
 <!-- 👉 If you desire to follow my journey: here's the [link](./30days/README.md)! -->
