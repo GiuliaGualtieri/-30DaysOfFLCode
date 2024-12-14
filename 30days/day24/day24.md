@@ -10,7 +10,7 @@ Today, with my fellows [Irina](https://github.com/IrinaMBejan), [Gustavo](https:
 
 As anticipated on my past days, we developed a "Federated Browser History Analyser" 🚀
 
-### ### Federated Browser History Analyser
+### Federated Browser History Analyser
 💻 OpenSource code:
 👉 browser_history_member https://github.com/VivekSil/browser_history_member
 👉 browser_history_aggregator https://github.com/IrinaMBejan/browser_history_aggregator?tab=readme-ov-file
@@ -23,13 +23,13 @@ browser_history_member         |  browser_history_aggregator |
 
 It could be installed through the SyftBox library as an API and used in this friendly FL environtment as a client.
 
-### Features
+### ✨ Features
 The aggregated results are:
-- Up to date Most Used Learning Resources
-- Interactive Find Your Learning Mate feature
-- Top Research Papers (directly readable and downloadable from the website)
+- Up to date Most Used Learning Resources 🔝
+- Interactive Find Your Learning Mate feature 🫂
+- Top Research Papers (directly readable and downloadable from the website) 📰
 
-### WorkFlow 
+### ♻️ WorkFlow 
 The summary of the workflow of our project within the SyftBox FL structure is as follows:
 1️⃣ The browser_history_member app writes intermediary outputs to a folder where only the client and the aggregator has access.
 2️⃣ The aggregator app, browser_history_aggregator, computes the final results and write them to a file where they can be used by the static website. Only one person needs to run this app!
@@ -37,7 +37,7 @@ The summary of the workflow of our project within the SyftBox FL structure is as
 
 We encourage all of you to install the browser_history_member app and partecipate as a client! then, Find Your Learning Mate!!! ✨ Get in touch with him and start learning together!
 
-### Next Steps
+### ⏭️ Next Steps
 - [ ] develop a recommendation system based on browsing history.
 - [ ] implement advanced privacy-preserving techniques to ensure data security (as encryption of browser history, dp for best mates)
 - [ ] OS versatility and support: making the APP working also on linux and windows
