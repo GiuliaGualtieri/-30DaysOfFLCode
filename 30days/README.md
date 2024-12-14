@@ -21,6 +21,7 @@ Here is my learning journey:
 - Day 🔟 [Example of usage with 'RingApp'](day10/day10.md)
 - Day 2️⃣2️⃣ [Federated Browser History Analyser System](day22/day22.md)
 - Day 2️⃣3️⃣ [Start being part of Computational Model](day23/day23.md)
+- Day 2️⃣4️⃣ ["Show & Tell": Federated Browser History Analyser](day24/day24.md)
 
 
 ## Federated Learning and Privacy
