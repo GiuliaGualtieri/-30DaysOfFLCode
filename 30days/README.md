@@ -22,6 +22,7 @@ Here is my learning journey:
 - Day 2️⃣2️⃣ [Federated Browser History Analyser System](day22/day22.md)
 - Day 2️⃣3️⃣ [Start being part of Computational Model](day23/day23.md)
 - Day 2️⃣4️⃣ ["Show & Tell": Federated Browser History Analyser](day24/day24.md)
+- Day 2️⃣6️⃣ [Federated CPU Tracker](day26/day26.md)
 
 
 ## Federated Learning and Privacy
