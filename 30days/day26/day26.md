@@ -19,6 +19,7 @@ Two components:
 1. The Member API collects raw CPU metrics from individual devices, applies differential privacy, and stores the protected data locally. [`cpu_tracker_member`](https://github.com/OpenMined/cpu_tracker_member)
 2. The Aggregator API collects and aggregates privacy-protected CPU metrics across distributed clients, calculating network-wide statistics and presenting them through an interactive dashboard. [`cpu_tracker_leader`](https://github.com/OpenMined/cpu_tracker_leader)
 
+Check the Dashboard : https://syftbox.openmined.org/datasites/aggregator@openmined.org/!
 
 ### API Workflow
 
@@ -73,7 +74,7 @@ Future enhancements could incorporate:
 
 ## 📮 Post 
 
-[📘 LinkedIn Post]()
+[📘 LinkedIn Post](https://www.linkedin.com/posts/giuliagualtieri_30daysofflcode-activity-7274010863353675777-aii8?utm_source=share&utm_medium=member_desktop)
 
 ------
 The _**Federated Learning Term of the Day**_ is **Differential privacy**.
