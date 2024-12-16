@@ -42,3 +42,6 @@ Here is my learning journey:
 
 ## Understanding the Types of Federated Learning 
 - Day 2️⃣5️⃣ [Understanding the Types of Federated Learning](day25/day25.md)
+
+## Innovative PETs algorithms
+- Day 2️⃣7️⃣ [The CaPC control](day27/day27.md)
