@@ -66,7 +66,7 @@ Improving CaPC:
 
 ## 📮 Post 
 
-[📘 LinkedIn Post]()
+[📘 LinkedIn Post](https://www.linkedin.com/posts/giuliagualtieri_30daysofflcode-capc-confidential-activity-7274319752250949632-EZWS?utm_source=share&utm_medium=member_desktop)
 
 ------
 The _**Federated Learning Term of the Day**_ is **Secret sharing**.
