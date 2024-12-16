@@ -60,7 +60,7 @@ In particular, Each answering party uses its machine learning model to perform p
 
 ### CONs
 Improving CaPC:
-- **quite complex** mechanism, which leads to new possible leakage points. IMO increasing the number of complexity could also increase the number of possible leakage points.
+- **quite complex** mechanism, which leads to new possible leakage points. IMO increasing the number of complexity could also increase the number of possible leakage and breaking points of the entire protocol.
 - **quite slow**,due to the performing private inference with each answering party is by far the slowest component of the protocol.
 
 ## 📮 Post 
