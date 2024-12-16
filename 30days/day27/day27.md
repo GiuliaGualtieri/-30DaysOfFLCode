@@ -2,27 +2,28 @@
 **16 December 2024**
 
 ## 📰 Resource
-[Beyond federation: collaborating in ML with confidentiality and privacy](http://www.cleverhans.io/2021/05/01/capc.html)
+[Beyond federation: collaborating in ML with confidentiality and privacy](http://www.cleverhans.io/2021/05/01/capc.html) (May 1, 2021).
 
 
 ## 🔖 My Learning
 
 In machine learning, it is frequent to obtain better predictions by collaboratively polling the predictions of multiple machine learning models (a technique often known as ensemble learning). For instance, collaboration can help improve a model’s performance by increasing the amount of training data available.
 
-*The CaPC control*, where **CaPC** stands for Confidential and Private Collaborative Learning, we provide a protocol for enabling machine learning models to collaborate while preserving the privacy of the underlying data.
+*The CaPC control*, where **CaPC** stands for Confidential and Private Collaborative Learning, is a protocol for enabling machine learning models to collaborate while preserving the privacy of the underlying data.
 
-This enables us to have an ensemble of distributed models collaboratively predict on an input without ever having to reveal this input, the models themselves, or the data that they were trained on.
+This innovative algorithm enables to have an ensemble of distributed models collaboratively predict on an input without ever having to reveal this input, the models themselves, or the data that they were trained on.
 
-**Confidentiality** of the data and models is maintained if data is never accessed in its raw form, i.e., the data is encrypted using some cryptographic method rather than transmitted in plaintext. This prevents models in the ensemble from reading the input they are predicting on. It also means we don’t have to centralize all of the models in a single location, so these models’ confidentiality (parameter values, architectures, etc.) is also preserved.
+**Confidentiality** of the data and models is maintained if data is never accessed in its raw form, i.e., the data is encrypted using some cryptographic method rather than transmitted in plaintext. This prevents models in the ensemble from reading the input they are predicting on. It also means it's not required to centralize all of the models in a single location, so these models’ confidentiality (parameter values, architectures, etc.) is also preserved.
 
 **Privacy** of the data is often reasoned about using the differential privacy framework, which protects the privacy of individuals by guaranteeing that their training record won’t overly influence the outcome of the analysis. 
 
-CaPC integrates building blocks from cryptography and differential privacy to provide Confidential and Private Collaborative learning.
+CaPC integrates building blocks from cryptography and differential privacy to provide **Confidential and Private Collaborative** learning.
 
 ### TLDR
-The CaPC protocol finalizes with the aggregate label returned to the querying party. To protect privacy (in the sense of differential privacy), the protocol does not reveal the individual predictions of each model. A voting mechanism is there, it returns the aggregated prediction. Each answering party will vote on a label for the input data point, resulting in a histogram of votes, and the class with the most votes will be the returned label. However, this naive voting mechanism can still leak information about the training data which each answering party used to learn their own model. To prevent and protect privacy in a differential privacy sense, we need to add some (random) noise to the histogram before we return the highest voted label.
+The CaPC protocol finalizes with the aggregate label returned to the querying party. To protect privacy (in the sense of differential privacy), the protocol does not reveal the individual predictions of each model. A voting mechanism is there, it returns the aggregated prediction. Each answering party will vote on a label for the input data point, resulting in a histogram of votes, and the class with the most votes will be the returned label. However, this naive voting mechanism can still leak information about the training data which each answering party used to learn their own model. To prevent and protect privacy in a differential privacy sense, **it's not required to add some (random) noise to the histogram before the ensemble learning return the highest voted label**.
 
 ### Mechanism
+![CaPC](../images/CaPC_protocol.png)
 1. The protocol begins when any party (e.g., the cardiac hospital) has unlabeled data. That party acts as the querying party. The querying party encrypts their data using Homomorphic Encryption. 
 2. Then, the querying party sends their homomorphically encrypted data to all the answering parties (the ensemble).
 3. Each answering party labels this data point with its own machine learning model. 
