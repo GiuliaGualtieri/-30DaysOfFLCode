@@ -32,7 +32,6 @@ Here is my learning journey:
 - Day 2️⃣4️⃣ ["Show & Tell": Federated Browser History Analyser](30days/day24/day24.md)
 - Day 2️⃣6️⃣ [Federated CPU Tracker](30days/day26/day26.md)
 
-
 ## Federated Learning and Privacy
 - Day 1️⃣3️⃣ [Privacy Principles for Learning and Analytics](30days/day13/day13.md)
 - Day 1️⃣4️⃣ [Federated Learning Settings and Applications: Cross-Device Federated Learning](30days/day14/day14.md)
@@ -50,6 +49,9 @@ Here is my learning journey:
 
 ## Understanding the Types of Federated Learning 
 - Day 2️⃣5️⃣ [Understanding the Types of Federated Learning](30days/day25/day25.md)
+
+## Innovative PETs algorithms
+- Day 2️⃣7️⃣ [The CaPC control](30days/day27/day27.md)
 
 <!-- ![immagine](https://info.openmined.org/hubfs/OpenMined-Logo.svg) -->
 
