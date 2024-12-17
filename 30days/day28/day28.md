@@ -102,7 +102,7 @@ Consequently, the resulting algorithm enables us to spend privacy budget only wh
 
 ## 📮 Post 
 
-[📘 LinkedIn Post]()
+[📘 LinkedIn Post](https://www.linkedin.com/posts/giuliagualtieri_30daysofflcode-activity-7274763042976919552-u7m-?utm_source=share&utm_medium=member_desktop)
 
 ------
 The _**Federated Learning Term of the Day**_ is **sample-and-aggregate**.
