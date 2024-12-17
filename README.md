@@ -52,7 +52,7 @@ Here is my learning journey:
 
 ## Innovative PETs algorithms
 - Day 2️⃣7️⃣ [The CaPC control](30days/day27/day27.md)
-- Day 2️⃣8️⃣ [PRIVACY-PRESERVING RETRIEVAL AUGMENTED GENERATION WITH DIFFERENTIAL PRIVACY](30days/day28/day28.md)
+- Day 2️⃣8️⃣ [Privacy-Preserving RAG with DP](30days/day28/day28.md)
 
 <!-- ![immagine](https://info.openmined.org/hubfs/OpenMined-Logo.svg) -->
 
