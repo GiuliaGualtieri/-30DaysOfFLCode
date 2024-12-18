@@ -65,7 +65,7 @@ RAPPOR is well-suited for large-scale, privacy-preserving telemetry systems and 
 
 ## 📮 Post 
 
-[📘 LinkedIn Post]()
+[📘 LinkedIn Post](https://www.linkedin.com/posts/giuliagualtieri_30daysofflcode-activity-7275236820844490753-BJGl?utm_source=share&utm_medium=member_desktop)
 
 ------
 The _**Federated Learning Term of the Day**_ is **Randomized Response Mechanisms**.
