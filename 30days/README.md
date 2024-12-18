@@ -46,3 +46,4 @@ Here is my learning journey:
 ## Innovative PETs algorithms
 - Day 2️⃣7️⃣ [The CaPC control](day27/day27.md)
 - Day 2️⃣8️⃣ [Privacy-Preserving RAG with DP](day28/day28.md)
+- Day 2️⃣9️⃣ [RAPPOR](day29/day29.md)
