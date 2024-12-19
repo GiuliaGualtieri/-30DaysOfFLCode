@@ -7,7 +7,7 @@ Here is my learning journey:
 - Day 3️⃣ [2.2 Systems Heterogeneity](day3/day3.md)
 - Day 4️⃣ [2.3 Statistical Heterogeneity](day4/day4.md)
 - Day 5️⃣ [2.4 Privacy](day5/day5.md)
-- Day 3️⃣0️⃣ [Federated Learning in Practice: Reflections and Projections](30days/day30/day30.md)
+- Day 3️⃣0️⃣ [Federated Learning in Practice: Reflections and Projections](day30/day30.md)
 
 ## Federated Averaging algorithm
 - Day 6️⃣ [Introduction and pseudo-code](day6/day6.md)
